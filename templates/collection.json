@@ -504,32 +504,6 @@
             "gap": 24
           },
           "blocks": {
-            "text_prnpVE": {
-              "type": "text",
-              "name": "t:names.caption",
-              "settings": {
-                "text": "<p>Bestseller</p>",
-                "width": "fit-content",
-                "max_width": "normal",
-                "alignment": "left",
-                "type_preset": "h6",
-                "font": "var(--font-body--family)",
-                "font_size": "1rem",
-                "line_height": "normal",
-                "letter_spacing": "normal",
-                "case": "none",
-                "wrap": "pretty",
-                "color": "var(--color-foreground)",
-                "background": false,
-                "background_color": "#00000026",
-                "corner_radius": 0,
-                "padding-block-start": 0,
-                "padding-block-end": 0,
-                "padding-inline-start": 0,
-                "padding-inline-end": 0
-              },
-              "blocks": {}
-            },
             "group_FiLEph": {
               "type": "group",
               "settings": {
@@ -619,38 +593,39 @@
                     "padding-inline-end": 0
                   },
                   "blocks": {}
+                },
+                "button_rGUAjU": {
+                  "type": "button",
+                  "settings": {
+                    "label": "Shop now",
+                    "link": "shopify://collections/all",
+                    "open_in_new_tab": false,
+                    "style_class": "button",
+                    "width": "fit-content",
+                    "custom_width": 100,
+                    "width_mobile": "fit-content",
+                    "custom_width_mobile": 100
+                  },
+                  "blocks": {}
                 }
               },
               "block_order": [
                 "text_8MLgYh",
-                "text_6grYkU"
+                "text_6grYkU",
+                "button_rGUAjU"
               ]
-            },
-            "button_jBE7h9": {
-              "type": "button",
-              "settings": {
-                "label": "Shop now",
-                "link": "shopify://collections/all",
-                "open_in_new_tab": false,
-                "style_class": "button",
-                "width": "fit-content",
-                "custom_width": 100,
-                "width_mobile": "fit-content",
-                "custom_width_mobile": 100
-              },
-              "blocks": {}
             }
           },
           "block_order": [
-            "text_prnpVE",
-            "group_FiLEph",
-            "button_jBE7h9"
+            "group_FiLEph"
           ]
         }
       },
       "custom_css": [
         "h3 {color: #e44040;}",
-        ".button {background-color: #333333; color: #ffffff; font-weight: 500;}"
+        ".button {background-color: #333333; color: #ffffff; font-weight: 500;}",
+        ".group-block-content {display: flex; justify-content: center; align-items: center;}",
+        ".group-block {text-align: left;}"
       ],
       "name": "t:names.editorial",
       "settings": {
