@@ -377,7 +377,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>We make things that work better and last longer. Our products solve real problems with clean design and honest materials.</p>",
+            "text": "<p>Take a look at our collection! From fashionable clogs that elevate your outfit to slippers that keep you comfy at home—we’ve got your feet covered.</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
