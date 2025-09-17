@@ -316,6 +316,34 @@
         "padding-block-end": 0
       }
     },
+    "marquee_FHtMAr": {
+      "type": "marquee",
+      "blocks": {
+        "icon_rPMdxE": {
+          "type": "icon",
+          "name": "t:names.icon",
+          "settings": {
+            "icon": "none",
+            "image_upload": "shopify://shop_images/avenion-whitelogo_e0b8bb44-86d1-4f02-9a67-5f1a0ff50bca.svg",
+            "width": 76,
+            "link": "",
+            "open_in_new_tab": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "icon_rPMdxE"
+      ],
+      "name": "t:names.marquee_section",
+      "settings": {
+        "movement_direction": "reverse",
+        "color_scheme": "scheme-58084d4c-a86e-4d0a-855e-a0966e5043f7",
+        "padding-block-start": 14,
+        "padding-block-end": 14,
+        "gap_between_elements": 14
+      }
+    },
     "section_GVDGpH": {
       "type": "section",
       "blocks": {
@@ -672,6 +700,7 @@
     "main",
     "marquee_9UWx9M",
     "section_i3KXhH",
+    "marquee_FHtMAr",
     "section_GVDGpH",
     "section_XrUY86",
     "marquee_tgfC6L",
