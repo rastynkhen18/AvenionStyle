@@ -534,12 +534,93 @@
             "padding-inline-end": 0
           },
           "blocks": {}
+        },
+        "text_bENPyr": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p><strong>WHY CHOOSE AVENION?</strong></p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_ch8Gaj": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p>First-in-the-market swappable strap Clogs Premium materials<br/>at an affordable price equipped with NFC tag for authenticity<br/>Designed for modern lifestyle & personal expression.</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_4eXAJr": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<p><strong>WHAT’S IN THE BOX:</strong></p><p>1x Pair of Premium Avenion Mule Clogs<br/>1x Set of Swappable Straps (choose your color)<br/>1x Protective cellophane wrapping<br/>1x Premium packaging box<br/>1x Printed Manual (includes:)<br/>• Thank You Card<br/>• Product Warranty Info<br/>• Care Instructions<br/>• Strap Swap Installation Guide</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "color": "var(--color-foreground)",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
         }
       },
       "block_order": [
         "text_NMnTUn",
         "text_JC6tt6",
-        "text_RUV6DB"
+        "text_RUV6DB",
+        "text_bENPyr",
+        "text_ch8Gaj",
+        "text_4eXAJr"
       ],
       "name": "t:names.custom_section",
       "settings": {
