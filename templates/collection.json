@@ -549,7 +549,7 @@
                   "settings": {
                     "text": "<h2>AVENION STYLE COLLECTIONS</h2>",
                     "width": "100%",
-                    "max_width": "normal",
+                    "max_width": "narrow",
                     "alignment": "left",
                     "type_preset": "h3",
                     "font": "var(--font-body--family)",
@@ -572,7 +572,7 @@
                 "text_6grYkU": {
                   "type": "text",
                   "settings": {
-                    "text": "<h3>Sale 20% </h3>",
+                    "text": "<h3>Sale 20%  Off</h3>",
                     "width": "fit-content",
                     "max_width": "narrow",
                     "alignment": "left",
@@ -622,8 +622,11 @@
         }
       },
       "custom_css": [
-        "h3 {color: #e44040;}",
-        ".button {background-color: #333333; color: #ffffff; font-weight: 500;}"
+        "h2 {font-size: 30px;}",
+        "h3 {font-size: 30px; color: #e44040;}",
+        ".button {background-color: #333333; color: #ffffff; font-weight: 500; border-radius: 0;}",
+        "@media (width >= 48rem) {h2 {font-size: 48px;}h3 {font-size: 48px; color: #e44040;}.button {background-color: #333333; color: #ffffff; font-weight: 500; border-radius: 0;} }",
+        "@media (width >= 64rem) {h2 {font-size: 48px;}h3 {font-size: 48px; color: #e44040;}.button {background-color: #333333; color: #ffffff; font-weight: 500; border-radius: 0;} }"
       ],
       "name": "t:names.editorial",
       "settings": {
