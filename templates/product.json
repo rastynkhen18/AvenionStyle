@@ -591,7 +591,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p><strong>WHAT’S IN THE BOX:</strong></p><p>1x Pair of Premium Avenion Mule Clogs<br/>1x Set of Swappable Straps (choose your color)<br/>1x Protective cellophane wrapping<br/>1x Premium packaging box<br/>1x Printed Manual (includes:)<br/>• Thank You Card<br/>• Product Warranty Info<br/>• Care Instructions<br/>• Strap Swap Installation Guide</p>",
+            "text": "<p><strong>WHAT’S IN THE BOX:</strong></p><p>1x Pair of Premium Avenion Mule Clogs<br/>1x Set of Swappable Straps (choose your color)<br/>1x Protective cellophane wrapping<br/>1x Premium packaging box<br/>1x Printed Manual (includes:)<br/>• Thank You Card<br/>• Product Warranty Info<br/>• Care Instructions<br/>• Strap Swap Installation Guide<br/><br/></p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -774,7 +774,7 @@
       ],
       "name": "t:names.product_recommendations",
       "settings": {
-        "product": "boston-clogs-beige",
+        "product": "boston-clogs-obsidian-black",
         "recommendation_type": "related",
         "layout_type": "grid",
         "carousel_on_mobile": true,
