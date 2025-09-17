@@ -1260,7 +1260,8 @@
       ],
       "custom_css": [
         "div {background-color: #333333;}",
-        "h2{color: #ffffff;}"
+        "h2 {color: #ffffff;}",
+        "p{color: #818181;}"
       ],
       "name": "t:names.email_signup",
       "settings": {
