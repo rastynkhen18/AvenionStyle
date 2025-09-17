@@ -1241,8 +1241,8 @@
             "border_radius": 100,
             "input_type_preset": "paragraph",
             "style_class": "button-unstyled",
-            "display_type": "arrow",
-            "label": "Sign Up",
+            "display_type": "text",
+            "label": "Join Now",
             "integrated_button": true,
             "button_type_preset": "paragraph",
             "padding-block-start": 0,
@@ -1261,7 +1261,7 @@
       "custom_css": [
         "div {background-color: #333333;}",
         "h2 {color: #ffffff;}",
-        "p{color: #818181;}"
+        "p {color: #818181;}"
       ],
       "name": "t:names.email_signup",
       "settings": {
